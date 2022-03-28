@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIipeLength1.dll"</Assembly>
+    <AddInId>363AD064-AEF5-4E0C-993C-823542321931</AddInId>
+    <FullClassName>RevitAPIipeLength1.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>PipeLength</Text>
+  </AddIn>
+</RevitAddIns>
